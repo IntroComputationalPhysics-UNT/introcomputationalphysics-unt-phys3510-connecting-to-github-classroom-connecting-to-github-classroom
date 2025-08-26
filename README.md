@@ -1,5 +1,6 @@
 # connecting-to-github-classroom
 
+₍^. .^₎⟆
 
 You can use backticks ` to enclose code
 ``` python
